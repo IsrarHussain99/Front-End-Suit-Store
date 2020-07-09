@@ -1,0 +1,19 @@
+{
+  "name": "clothing_store",
+  "version": "1.0.0",
+  "description": "suits clothing shop",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israr Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
